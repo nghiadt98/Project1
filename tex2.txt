@@ -1,4 +1,1 @@
-<<<<<<< HEAD
-=======
 -chage text2
->>>>>>> main
