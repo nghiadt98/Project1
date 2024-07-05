@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 # Test
-tex4.txt
+*.txt
